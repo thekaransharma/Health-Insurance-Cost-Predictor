@@ -162,14 +162,4 @@ You can access the dataset [here](https://www.kaggle.com/datasets/mirichoi0218/i
 
 </div>
 
-## 👨‍💼 Contributing ##
 
-For major changes, please open an issue first to discuss what you would like to change.
-
-
-
-Made by <a href="https://github.com/Mohd-Tarique99" target="_blank">Mohd Tarique</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
